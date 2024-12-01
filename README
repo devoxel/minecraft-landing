@@ -1,0 +1,11 @@
+This is a small go server that acts as a landing page for a minecraft server.
+
+* It lets you add yourself to the whitelist.
+* It exposes world downloads.
+* It has a little page explaining the world.
+
+I am not going to document this, so if you want to use it, please
+go ahead and figure it out yourself.
+
+The code is licenced under MIT but I cant include the images because they are
+all ripped from geocities. I might dump them in a release if I am bothered.
